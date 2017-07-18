@@ -8,3 +8,4 @@ add test5
 add test4 from branchA
 add test5 from branchA
 add test6 from branchA
+add test7
