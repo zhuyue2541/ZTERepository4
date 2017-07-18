@@ -4,5 +4,7 @@ add test3
 add test4
 add test4 from branchA
 add test4 from branchA
-add test5 from branchB
 add test5
+add test4 from branchA
+add test5 from branchA
+add test6 from branchA
